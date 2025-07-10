@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Gamal Sherif</h1>
-<h3 align="center">A passionate Software Engineer from Cairo, Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 <p align="center">
   <img src="https://benchada-abdellatif.vercel.app/static/media/giphy.05f035b3a27b38553a6a.gif" height="150" alt="developer animation" />
